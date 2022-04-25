@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Asesor Café</string>
+    <string name="selecciona">Selecciona el nombre científico para ver su descripción</string>
+    <string name="button">Caracteristicas del Café</string>
+</resources>
